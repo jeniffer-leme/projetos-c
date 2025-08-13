@@ -6,10 +6,10 @@ Este repositório contém **projetos completos em linguagem C**, organizados por
 ## 📂 Estrutura do Repositório
  Pasta                                       | Descrição                                                  
  ------------------------------------------- | ----------------------------------------------------------- 
- [01\_Manipulacao_Dados](Manipulacao_Dados/) | Projetos focados em structs, vetores e arquivos     
- [02\_Jogos](Jogos/)                         | Projetos de jogos                 
- [03\_Simulacoes](Simulacoes/)               | Simulações ou programas práticos   
- [04\_Outros\_Projetos](Outros_Projetos/)    | Ferramentas e utilitários
+ [01\_manipulacao_dados]manipulacao_dados/) | Projetos focados em structs, vetores e arquivos     
+ [02\_jogos](jogos/)                         | Projetos de jogos                 
+ [03\_simulacoes](simulacoes/)               | Simulações ou programas práticos   
+ [04\_outros\_projetos](outros_projetos/)    | Ferramentas e utilitários
 
 
 ## 🚀 Como executar
