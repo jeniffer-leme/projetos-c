@@ -2,18 +2,27 @@
 
 Este repositório contém **projetos completos em linguagem C**, organizados por tema e nível de complexidade. O objetivo é aplicar conhecimentos de programação adquiridos em exercícios, desenvolvendo programas funcionais e integrados.
 
+
 ## 📂 Estrutura do Repositório
-| Pasta                                       | Descrição                                                   | Exemplos de Projetos                                   |
-| ------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------ |
-| [01\_Conversores](01_Conversores/)          | Programas que realizam conversões de unidades e valores     | Conversor de temperatura (Celsius, Fahrenheit, Kelvin) |
-| [02\_Sistemas](02_Sistemas/)                | Sistemas simulando aplicações do mundo real                 | Sistema de Loja (clientes, produtos, pedidos)          |
-| [03\_Jogos](03_Jogos/)                      | Projetos de jogos simples em C                              | Jogo da Velha, Adivinhação de números                  |
-| [04\_Outros\_Projetos](04_Outros_Projetos/) | Projetos diversos que combinam lógica e estruturas de dados | Cálculos de médias, fatorial, manipulação de vetores   |
+ Pasta                                       | Descrição                                                  
+ ------------------------------------------- | ----------------------------------------------------------- 
+ [01\_Manipulacao_Dados](Manipulacao_Dados/) | Projetos focados em structs, vetores e arquivos     
+ [02\_Jogos](02_Jogos/)                      | Projetos de jogos                 
+ [03\_Simulacoes](03_Simulacoes/)            | Simulações ou programas práticos                          
+ [04\_Outros\_Projetos](04_Outros_Projetos/) | Ferramentas e utilitários
 
 
 ## 🚀 Como executar
-1. Instale o compilador GCC no seu computador.
-2. Abra o terminal na pasta do exercício.
-3. Compile o código:
+1. Clone este repositório:
    ```bash
-   gcc nome_do_arquivo.c -o programa
+   git clone https://github.com/SEU_USUARIO/Projetos_C.git
+2. Navegue até a pasta do projeto desejado.   
+3. Compile o arquivo .c usando um compilador como gcc:
+    ```bash
+    gcc nome_do_arquivo.c -o programa
+4. Execute o programa:
+   ```bash
+   ./programa   # no Linux/Mac
+   programa.exe # no Windows
+
+
